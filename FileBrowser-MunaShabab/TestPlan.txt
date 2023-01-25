@@ -1,0 +1,8 @@
+*I created the Form and tested it with the document I created
+* it worked as it was supposed to
+*I also tested it with leaving the file name textBox empty and entering an invalid file name
+* I got error messages for empty file name and unable to find file
+*I added the browseButton and the click event handler
+* I tested the application with browsing for a file and also enetring a file name 
+* I relized that I had to add code to clear the listBox very time the read the file button is clicked so I did that for both the 
+fileReader and fileBrowser applications and tested it.
